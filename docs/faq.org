@@ -461,7 +461,7 @@ What can you do about it?
    #'org-superstar-mode)~. It's an aesthetic plugin that offers fancier bullets.
    Emacs seems to struggle to display those characters with some fonts.
 
-   Org uses can also turn off the rest of org's eye candy:
+   Org users can also turn off the rest of org's eye candy:
 
    #+BEGIN_SRC elisp
    (after! org
